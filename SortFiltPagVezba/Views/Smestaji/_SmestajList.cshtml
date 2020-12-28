@@ -1,0 +1,26 @@
+﻿@model IEnumerable<SortFiltPagVezba.Models.Smestaj>
+
+    <table class="table table-bordered table-striped">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Naziv)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Opis)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Adresa)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Ocena)
+            </th>
+           
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            Html.RenderPartial("_SmestajItem", item);
+        }
+
+    </table>

@@ -1,0 +1,59 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<SortFiltPagVezba.Models.Smestaj>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Smestaj</h2>
+
+<p class="clearfix">
+    @Html.ActionLink("Dodaj novi smestaj", "Create", null, new { @class = "btn btn-primary btn-lg" })
+</p>
+<br />
+
+
+<div class="col-md-6">
+    @using (Html.BeginForm("Index", "Smestaji"))
+    {
+        @Html.Label("Naziv")
+        @Html.TextBox("Naziv", null, new { @class = "form-control" }) <br />
+        @Html.Label("Adresa")
+        @Html.TextBox("Adresa", null, new { @class = "form-control" }) <br />
+
+        @Html.Hidden("sortType", (string)ViewBag.chosenSort)
+        <input type="submit" value="Pretraga" class="btn btn-warning" />
+        <br />
+        <br />
+        <div>
+            @Html.ActionLink("Osvezi tabelu", "Index")
+        </div>
+
+    }
+</div>
+
+
+<div class="col-md-6">
+    @using (Html.BeginForm("Index", "Smestaji", FormMethod.Get))
+    {
+        @Html.DropDownList("sortType", ViewBag.selectionList as SelectList, new { @class = "form-control" })
+        <br />
+        @Html.Hidden("Naziv", (string)ViewBag.filter.Naziv)
+        @Html.Hidden("Adresa", (string)ViewBag.filter.Adresa)
+
+        <input type="submit" value="Sortiraj" class="btn btn-primary" />
+        <br />
+
+    }
+</div>
+
+
+
+
+@{
+    Html.RenderPartial("_SmestajList");
+}
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))

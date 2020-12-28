@@ -1,0 +1,23 @@
+﻿@model SortFiltPagVezba.Models.Rezervacija
+<tr>
+    <td style="font-size: 16px">
+        @Html.DisplayFor(m => m.ImePrezime)
+    </td>
+    <td style="font-size: 16px">
+        @Html.DisplayFor(m => m.DatumPocetka)
+    </td>
+    <td style="font-size: 16px">
+        @Html.DisplayFor(m => m.DatumKraja)
+    </td>
+    <td style="font-size: 16px">
+        @Html.DisplayFor(m => m.Otkazana)
+    </td>
+    <td style="font-size: 16px">
+        @Html.DisplayFor(m => m.SobaId)
+    </td>
+    <td>
+        @Html.ActionLink("Izmena", "Edit", new { id = Model.Id }, new { @class = "btn btn-warning btn-sm" }) |
+        @Html.ActionLink("Detalji", "Details", new { id = Model.Id }, new { @class = "btn btn-info btn-sm" }) |
+        @Html.ActionLink("Brisanje", "Delete", new { id = Model.Id }, new { @class = "btn btn-danger btn-sm" })
+    </td>
+</tr>

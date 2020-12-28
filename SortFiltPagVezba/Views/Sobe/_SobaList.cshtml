@@ -1,0 +1,26 @@
+﻿@model IEnumerable<SortFiltPagVezba.Models.Soba>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.BrojSobe)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.BrojKreveta)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.CenaNoc)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Smestaj.Naziv)
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        Html.RenderPartial("_SobaItem", item);
+    }
+
+</table>

@@ -1,0 +1,66 @@
+﻿@using PagedList.Mvc
+@model PagedList.IPagedList<SortFiltPagVezba.Models.Soba>
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Sobe</h2>
+
+<p class="clearfix">
+    @Html.ActionLink("Dodaj novu sobu", "Create", null, new { @class = "btn btn-primary btn-lg" })
+</p>
+<br />
+<div class="col-md-6">
+    @using (Html.BeginForm("Index", "Sobe", new { id = "f1", onsubmit = "return ValidateForm()" }))
+    {
+        @Html.Label("Broj kreveta")
+        @Html.TextBox("BrojKreveta", null, new {@type="number", @class = "form-control" })<br />
+        @Html.Label("Cena za noc - od")
+        @Html.TextBox("CenaNocOd", null, new {@type="number", @class = "form-control" }) <br />
+        @Html.Label("Cena za noc - do")
+        @Html.TextBox("CenaNocDo", null, new {@type="number", @class = "form-control" }) <br />
+        @Html.Label("Naziv smestaja")
+        @Html.TextBox("SmestajNaziv", null, new { @class = "form-control" }) 
+        <span class="validation-error" id="nazivSmestajaSpan"></span><br />
+
+        @Html.Hidden("sort", (string)ViewBag.chosenSort)
+        <input type="submit" value="Pretraga" class="btn btn-warning" />
+        <br />
+        <br />
+        <div>
+            @Html.ActionLink("Osvezi tabelu", "Index")
+        </div>
+
+    }
+</div>
+
+
+<div class="col-md-2">
+    @using (Html.BeginForm("Index", "Smestaji", FormMethod.Get))
+    {
+        @Html.DropDownList("sortType", ViewBag.selectionList as SelectList, new { @class = "form-control" })
+        <br />
+        @Html.Hidden("BrojKreveta", (int?)ViewBag.filter.BrojKreveta)
+        @Html.Hidden("CenaNocOd", (int?)ViewBag.filter.CenaNocOd)
+        @Html.Hidden("CenaNocDo", (int?)ViewBag.filter.CenaNocDo)
+        @Html.Hidden("SmestajNaziv", (string)ViewBag.filter.SmestajNaziv)
+
+        <input type="submit" value="Sortiraj" class="btn btn-primary" />
+        <br />
+
+    }
+</div>
+
+<br />
+@{
+    Html.RenderPartial("_SobaList");
+}
+
+Page @(Model.PageCount < Model.PageNumber ? 0 : Model.PageNumber) of @Model.PageCount
+
+@Html.PagedListPager(Model, page => Url.Action("Index", new { page }))
+
+
+@section Scripts{
+    @Scripts.Render("~/Scripts/Validacija.js")
+    s}

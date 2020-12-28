@@ -1,0 +1,64 @@
+﻿@model SortFiltPagVezba.Models.Rezervacija
+
+@{
+    ViewBag.Title = "Delete";
+}
+
+<h2>Brisanje</h2>
+
+<h3>Da li sigurno zelite da izbrisete?</h3>
+<div>
+    <h4>Rezervacija</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Soba.Id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Soba.Id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ImePrezime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ImePrezime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumPocetka)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumPocetka)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.DatumKraja)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.DatumKraja)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Otkazana)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Otkazana)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Obrisi" class="btn btn-default" /> |
+            @Html.ActionLink("Nazad", "Index")
+        </div>
+    }
+</div>

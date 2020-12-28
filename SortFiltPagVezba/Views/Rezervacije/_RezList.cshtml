@@ -1,0 +1,28 @@
+﻿@model IEnumerable<SortFiltPagVezba.Models.Rezervacija>
+
+<table class="table table-bordered table-striped">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ImePrezime)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatumPocetka)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DatumKraja)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Otkazana)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.SobaId)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        Html.RenderPartial("_RezItem", item);
+    }
+
+</table>

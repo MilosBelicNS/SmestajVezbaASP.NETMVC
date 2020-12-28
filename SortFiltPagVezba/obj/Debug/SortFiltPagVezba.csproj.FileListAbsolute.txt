@@ -1,0 +1,183 @@
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.dll.config
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.pdb
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.exe
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.exe.config
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.rsp
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.exe
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.exe.config
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.rsp
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.AppContext.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Collections.Immutable.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Console.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Globalization.Calendars.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.Compression.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.FileSystem.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Net.Http.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Net.Sockets.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.ValueTuple.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XPath.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.exe
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.exe.config
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.rsp
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\VBCSCompiler.exe
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\VBCSCompiler.exe.config
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Antlr3.Runtime.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.SqlServer.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.Web.Infrastructure.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Newtonsoft.Json.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Helpers.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Mvc.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Optimization.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Razor.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Deployment.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Razor.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\WebGrease.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.SqlServer.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Helpers.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Mvc.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Optimization.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Razor.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Deployment.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Razor.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Newtonsoft.Json.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Antlr3.Runtime.pdb
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.CopyComplete
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.pdb
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.Migrations.Prva.resources
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.GenerateResource.cache
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.xml
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.Mvc.dll
+D:\Software development\C Sharp Practice\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.Mvc.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.dll.config
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\SortFiltPagVezba.pdb
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.exe
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.exe.config
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csc.rsp
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.exe
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.exe.config
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\csi.rsp
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.AppContext.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Collections.Immutable.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Console.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Globalization.Calendars.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.Compression.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.FileSystem.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Net.Http.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Net.Sockets.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Reflection.Metadata.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.ValueTuple.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XPath.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.exe
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.exe.config
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\vbc.rsp
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\VBCSCompiler.exe
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\roslyn\VBCSCompiler.exe.config
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Antlr3.Runtime.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.SqlServer.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.Web.Infrastructure.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Newtonsoft.Json.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.Mvc.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Helpers.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Mvc.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Optimization.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Razor.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Deployment.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Razor.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\WebGrease.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\EntityFramework.SqlServer.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\PagedList.Mvc.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Helpers.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Mvc.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Optimization.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.Razor.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Deployment.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Web.WebPages.Razor.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Newtonsoft.Json.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Antlr3.Runtime.pdb
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csprojAssemblyReference.cache
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.Migrations.Prva.resources
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.GenerateResource.cache
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.CopyComplete
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.pdb
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.ComponentModel.Annotations.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Threading.Tasks.Extensions.dll
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Threading.Tasks.Extensions.xml
