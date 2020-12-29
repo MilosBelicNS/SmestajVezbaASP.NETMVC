@@ -45,11 +45,11 @@ namespace SortFiltPagVezba.Controllers
             //FILTER
             if (rezervacijaFilter.DatumPocetka != null)
             {
-                rezervacije = rezervacije.Where(p => p.DatumPocetka == rezervacijaFilter.DatumPocetka);
+                rezervacije = rezervacije.Where(p => p.DatumPocetka >= rezervacijaFilter.DatumPocetka);
             }
             if (rezervacijaFilter.DatumKraja != null)
             {
-                rezervacije = rezervacije.Where(p => p.DatumKraja == rezervacijaFilter.DatumKraja);
+                rezervacije = rezervacije.Where(p => p.DatumKraja <= rezervacijaFilter.DatumKraja);
             }
             if (rezervacijaFilter.BrojSobe != null)
             {
