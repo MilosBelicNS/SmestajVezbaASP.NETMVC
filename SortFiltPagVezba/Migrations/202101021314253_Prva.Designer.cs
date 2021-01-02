@@ -13,7 +13,7 @@ namespace SortFiltPagVezba.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202012251439236_Prva"; }
+            get { return "202101021314253_Prva"; }
         }
         
         string IMigrationMetadata.Source

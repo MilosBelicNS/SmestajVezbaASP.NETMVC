@@ -88,8 +88,8 @@
             {
                 Id = 1,
                 ImePrezime = "Milos Belic",
-                DatumPocetka = new DateTime(2020,12,28).Date,
-                DatumKraja = new DateTime(2021,01,02).Date,
+                DatumPocetka = new DateTime(2021,01,28).Date,
+                DatumKraja = new DateTime(2021,02,02).Date,
                 SobaId = 4
             };
             context.Rezervacije.AddOrUpdate(rezervacija1);

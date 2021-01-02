@@ -12,7 +12,7 @@
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        ImePrezime = c.String(nullable: false),
+                        ImePrezime = c.String(nullable: false, maxLength: 50),
                         DatumPocetka = c.DateTime(nullable: false),
                         DatumKraja = c.DateTime(nullable: false),
                         Otkazana = c.Boolean(nullable: false),
@@ -44,7 +44,7 @@
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        Naziv = c.String(nullable: false),
+                        Naziv = c.String(nullable: false, maxLength: 50),
                         Opis = c.String(nullable: false),
                         Adresa = c.String(nullable: false),
                         Ocena = c.Decimal(nullable: false, precision: 18, scale: 2),

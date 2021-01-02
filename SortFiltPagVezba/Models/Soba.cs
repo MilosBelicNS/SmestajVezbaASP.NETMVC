@@ -33,7 +33,7 @@ namespace SortFiltPagVezba.Models
 
         [ForeignKey("Smestaj")]
         public int SmestajId { get; set; }
-        [Display(Name = "Naziv smestaja")]
+      
         public Smestaj Smestaj { get; set; }
 
         public ICollection<Rezervacija> Rezervacije { get; set; }

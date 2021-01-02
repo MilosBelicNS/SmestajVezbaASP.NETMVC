@@ -153,9 +153,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202012251439236_Prva.cs" />
-    <Compile Include="Migrations\202012251439236_Prva.designer.cs">
-      <DependentUpon>202012251439236_Prva.cs</DependentUpon>
+    <Compile Include="Migrations\202101021314253_Prva.cs" />
+    <Compile Include="Migrations\202101021314253_Prva.designer.cs">
+      <DependentUpon>202101021314253_Prva.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\CurrentDateAttribute.cs" />
@@ -245,8 +245,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202012251439236_Prva.resx">
-      <DependentUpon>202012251439236_Prva.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202101021314253_Prva.resx">
+      <DependentUpon>202101021314253_Prva.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>

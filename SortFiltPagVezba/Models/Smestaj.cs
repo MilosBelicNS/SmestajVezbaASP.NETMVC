@@ -12,6 +12,7 @@ namespace SortFiltPagVezba.Models
         public int Id { get; set; }
         [Required]
         [StringLength(50, MinimumLength =3,ErrorMessage ="Morate uneti najmanje 3 karaktera!")]
+        [Display(Name = "Naziv smestaja")]
         public string Naziv { get; set; }
         [Required]
         public string Opis  { get; set; }

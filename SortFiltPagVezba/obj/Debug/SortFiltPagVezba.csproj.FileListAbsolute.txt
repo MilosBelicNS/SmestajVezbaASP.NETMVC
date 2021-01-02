@@ -169,8 +169,6 @@ D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPa
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Antlr3.Runtime.pdb
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csprojAssemblyReference.cache
-D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.Migrations.Prva.resources
-D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.GenerateResource.cache
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.CopyComplete
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.dll
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.pdb
@@ -181,3 +179,5 @@ D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPa
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\Microsoft.Bcl.AsyncInterfaces.xml
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Runtime.CompilerServices.Unsafe.xml
 D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\bin\System.Threading.Tasks.Extensions.xml
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.Migrations.Prva.resources
+D:\Software development\C Sharp Practice\ASP.NET MVC\SortFiltPagVezba\SortFiltPagVezba\obj\Debug\SortFiltPagVezba.csproj.GenerateResource.cache
